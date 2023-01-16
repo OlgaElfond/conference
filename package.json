@@ -1,0 +1,23 @@
+{
+  "name": "conference",
+  "version": "1.0.0",
+  "description": "conference page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OlgaElfond/conference.git"
+  },
+  "keywords": [
+    "conference",
+    "project"
+  ],
+  "author": "Olga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaElfond/conference/issues"
+  },
+  "homepage": "https://github.com/OlgaElfond/conference#readme"
+}
